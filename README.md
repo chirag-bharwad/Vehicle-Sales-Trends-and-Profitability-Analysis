@@ -153,7 +153,7 @@ Business questions answered using SQL:
 
 ### Vehicle Sales Trends and Profitability Dashboard
 
-![Dashboard Page 1](Dashboard%20Images/page1.png)
+![Dashboard Page 1]("Screenshot\vehicle_sales_analysis.png")
 
 ### Revenue & Customer Analytics Dashboard
 
